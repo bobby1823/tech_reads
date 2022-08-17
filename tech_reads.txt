@@ -82,3 +82,6 @@ Best resources in form of Blogs :
 
 MongoDB Developer Meets Recording:
 Developer meeting-20220701_170238-Meeting Recording.mp4
+
+Consistent Hashing:
+https://medium.com/codex/understanding-and-implementing-consistent-hash-algorithm-e53a35afa428
