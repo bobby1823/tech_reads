@@ -38,6 +38,9 @@ https://gist.github.com/VarunVats9/c293ee220a553f15cf07c7124a779d01
 Educative io System Design Freecourse:
 https://akshay-iyangar.github.io/system-design/
 
+Geeks4Geeks
+https://www.geeksforgeeks.org/top-10-system-design-interview-questions-and-answers/
+
 System Design materials:
 
 Below is the list of curated resources that you can use in preparing for Low-Level System Design Interviews.
