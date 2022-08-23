@@ -85,3 +85,8 @@ Developer meeting-20220701_170238-Meeting Recording.mp4
 
 Consistent Hashing:
 https://medium.com/codex/understanding-and-implementing-consistent-hash-algorithm-e53a35afa428
+
+
+Design Principles LLD:
+1. https://cseweb.ucsd.edu//~wgg/CSE210/ecoop93-patterns.pdf
+2. http://www.cs.unibo.it/~cianca/wwwpages/ids/esempi/coffee.pdf
